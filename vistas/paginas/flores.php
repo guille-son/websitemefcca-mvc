@@ -1,0 +1,140 @@
+<?php include 'modulos/header.php'; ?>
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primer Carnaval de las Flores</title>
+</head>
+
+<body>
+
+    <div class="seccion padding_boton_seccion contenedor contenido_encabezado_corto p-movil">
+        <div class='centrar_boton_seccion padding_boton_seccion'>
+            <a href="<?php echo $ruta; ?>" class="boton btn_estilo_uno"><i class="fas fa-arrow-left icono_boton"></i> Inicio</a>
+        </div>
+    </div>
+
+    <section class="contenedor exp">
+
+        <h1 class="my-5">MINISTERIO DE ECONOMÍA FAMILIAR, COMUNITARIA COOPERATIVA Y ASOCIATIVA</h1>
+
+        <div class="row px-4 d-flex justify-content-center">
+            <img class="immi" style="height: 800px; width: 1200px" src="https://www.economiafamiliar.gob.ni/backend/vistas/img/carnavalflores/portada.jpg" alt="Imagen">
+        </div>
+
+        <p class="">
+        El Ministerio de Economía Familiar, Comunitaria, Cooperativa y Asociativa (MEFCCA) lleva a Catarina el primer Carnaval de las Flores “Nicaragua en permanente Florecer” Mayo de Agua Santas donde las familias nicaragüenses podrán disfrutar de expo ferias, desfiles de carrozas, concursos, pasarelas, elección de la reina de las flores, exposición de fotografía y enlazamientos comerciales que estarán fortaleciendo la productividad de la economía familiar.
+        </p>
+        
+        <p class="">
+        <strong>Actividades que se estarán desarrollando:</strong>
+        </p>
+        
+        <p class="">
+        <b>1.	"Concurso de Fotografía "En permanente Florecer, Cultivamos Y Cosechamos Patria"</b>
+        </p>
+        <p class="">
+        <p>¡Inscripciones abiertas del 16 al 22 de mayo!</p>
+        <p>Fecha: Domingo 28 de mayo.</p>
+        <p>Hora: 2:00 p.m. </p>
+        <p>Lugar: Parque Central de Catarina.</p>
+        <a href="https://forms.gle/ucTX9Qwv3QMYrH2t7" class="btn btn-primary btn-lg btn-block col-sm-12 col-md-6 col-lg-4 h2 mx-1" target="_blank"><span class="h1 px-4">Link de Inscripcion</span></a>
+        </p>
+
+        <p class="">
+        <b>  </b>
+        </p>
+
+        <p class="">
+        <b>2.	CARRERA DE LAS FLORES </b>
+        </p>
+        <p class="">
+        <p>¡Inscripciones abiertas del 16 al 22 de mayo!</p>
+        <p>Fecha: Domingo 28 de mayo.</p>
+        <p>Hora: 7:00 a.m. </p>
+        <p>Lugar: Del estadio hacia el mirador de Catarina.</p>
+        <a href="https://forms.gle/tZdSPb3Loq9YXhBt8" class="btn btn-primary btn-lg btn-block col-sm-12 col-md-6 col-lg-4 h2 mx-1" target="_blank"><span class="h1 px-4">Link de Inscripcion</span></a>
+        </p>
+
+        <div class="row px-4 d-flex justify-content-center">
+		<img class="immi1" style = "height: 600px; width: 600px" src="https://www.economiafamiliar.gob.ni/backend/vistas/img/carnavalflores/carrera.jpg" alt="Imagen">
+        </div>
+
+        <p class="">
+        <b>3.	Concurso Nacional De Arreglos Florales </b>
+        </p>
+        <p class="">
+        <p>¡Inscripciones abiertas del 16 al 22 de mayo!</p>
+        <p>Fecha: Viernes 26 de mayo.</p>
+        <p>Hora: 1:00 p.m. </p>
+        <p>Lugar: Parque Central de Catarina.</p>
+        <a href="https://forms.gle/Rf4QKksfhiewczvg9" class="btn btn-primary btn-lg btn-block col-sm-12 col-md-6 col-lg-4 h2 mx-1" target="_blank"><span class="h1 px-4">Link de Inscripcion</span></a>
+        </p>
+        
+        <div class="row px-4 d-flex justify-content-center">
+		<img class="immi1" style = "height: 600px; width: 600px" src="https://www.economiafamiliar.gob.ni/backend/vistas/img/carnavalflores/concurso_arreglos.jpg" alt="Imagen">
+	    </div>
+
+        <p class="">
+        <b>4.	Desfiles de Carrozas con Flores y elección de la “Reyna de las Flores 2023”, un espectáculo único por su vistosi-dad y distinción </b>
+        </p>
+        <p class="">
+        <p>¡Inscripciones abiertas del 16 al 22 de mayo!</p>
+        <p>Fecha: Domingo 28 de mayo del 2023.</p>
+        <p>Hora: 2:00 p.m. </p>
+        <p>Lugar: Frente al parque Central.</p>
+        <a href="https://forms.gle/DW79jLFbXSGonYyT6" class="btn btn-primary btn-lg btn-block col-sm-12 col-md-6 col-lg-4 h2 mx-1" target="_blank"><span class="h1 px-4">Link de Inscripcion</span></a>
+        </p>
+
+        <div class="row px-4 d-flex justify-content-center">
+		<img class="immi1" style = "height: 600px; width: 600px" src="https://www.economiafamiliar.gob.ni/backend/vistas/img/carnavalflores/desfile_carrozas.jpg" alt="Imagen">
+	    </div>
+
+        <p class="">
+        <b>5.	Concurso Mejor Vivero de mi pueblo</b>
+        </p>
+        <p class="">
+        <p>¡Inscripciones abiertas del 16 al 22 de mayo!</p>
+        <p>Fecha: Viernes 26 de mayo del 2023.</p>
+        <p>Hora: 4:00 p.m. </p>
+        <p>Lugar: Parque Central de Catarina, tarima central.</p>
+        <a href="https://forms.gle/K353kUcEK3vXoGXF6" class="btn btn-primary btn-lg btn-block col-sm-12 col-md-6 col-lg-4 h2 mx-1" target="_blank"><span class="h1 px-4">Link de Inscripcion</span></a>
+        </p>
+
+        <p class="">
+        <b>6.	RECONOCIMIENTO ALFOMBRAS FLORALES EN CALLE PRINCIPAL CATARINA BAJO EL TEMA “EL AMOR DE MAMÁ ES MI INSPIRACIÓN”</b>
+        </p>
+        <p class="">
+        <p>¡Inscripciones abiertas del 16 al 22 de mayo!</p>
+        <p>Fecha: Sábado 27 de mayo de 2023.</p>
+        <p>Hora: 9:00 a.m. </p>
+        <p>Lugar: Frente al parque Central.</p>
+        <a href="https://forms.gle/rnCKAt2kuNg6NSfa8" class="btn btn-primary btn-lg btn-block col-sm-12 col-md-6 col-lg-4 h2 mx-1" target="_blank"><span class="h1 px-4">Link de Inscripcion</span></a>
+        </p>
+
+
+        
+	<div class="row px-4 d-flex justify-content-center">
+		<img class="immi1" style = "height: 600px; width: 600px" src="https://www.economiafamiliar.gob.ni/backend/vistas/img/carnavalflores/alfombras.jpg" alt="Imagen">
+	</div>
+	<p class=""></p>
+
+
+
+
+    </section>
+
+</body>
+
+<script>
+    document.title = 'Flores';
+</script>
+
+</html>
+
+<?php include 'modulos/footer.php'; ?>
+

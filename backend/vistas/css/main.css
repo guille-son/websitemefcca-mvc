@@ -1,0 +1,25 @@
+.ocultar {
+    transition: all .5s ease-in-out;
+    opacity: 0;
+}
+ 
+.mostrar {
+    transition: all .5s ease-in-out;
+    opacity: 1;
+    height: auto;
+}
+
+.alert {
+    padding: .375rem .75rem;
+    display: none;
+}
+
+.ck-editor__editable {
+    min-height: 200px !important;
+}
+
+div.dataTables_wrapper div.dataTables_filter input {
+
+    width: 70% !important;
+
+}
